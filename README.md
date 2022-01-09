@@ -3,4 +3,4 @@
 Repositorio para benchmark de funções de uma determinada linguagem.
 
 Linguagens:
--Ruby(Loops)
+-Ruby(condições, simbolos)
